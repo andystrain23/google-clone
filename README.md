@@ -8,6 +8,8 @@ For reference, [this is how Google looked at the time of the project.](https://i
 
 I am pretty proud of how close I got it to look. There are obvious differences like the lack of a carbon neutral icon on the footer link, spacings are off for most of the links and the applications button is offset.
 
+See the created page without having to download a repository [by clicking here](https://andystrain23.github.io/google-clone/).
+
 Hopefully, however, this standard is close enough for someone to think "huh that's google" rather than "huh that's a bad recreation of google".
 
 I am looking forward to continuing the course.
